@@ -29,7 +29,36 @@ Reflection on the Course
 | Collaboration         | Works well cross functionally                                                                   | Works well within the team                                                  | Works well in direct collaboration                       | Does not work well with others                                        | 3        |
 
 ### SWOT Analysis
+#### **Strengths**
 
+1. **Technical Mastery**:
+    - Expert-level ability to design secure systems and write new software.
+2. **Communication & Leadership**:
+    - Ability to articulate risks to leadership and mentor peers effectively with regards to compliance and development.
+
+#### **Weaknesses**
+
+1. **Threat Analysis**:
+    - Limited domain knowledge.
+    - Not as experienced proactive defense strategies (e.g., zero-day mitigation) as opposed to reactive.
+2. **Collaboration**:
+    - Opportunity to work on collaborating with different business personas at different stages in the SDLC.
+
+#### **Opportunities**
+
+1. **Research**:
+    - Previously awarded a patent in network security, it would be good to do more novel work outside of normal duties.
+2. **Industry Collaboration**:
+    - Try contributing to an open source project to enhance collaboration skills and potentially work in novel research as per above.
+
+#### **Threats**
+
+1. **Rapid Threat Evolution**:
+    - New attacks and actors may outpace development of current intermediate threat knowledge.
+2. **Regulatory Changes (especially as a result of global industrial shifts)**:
+    - Shifting compliances (e.g. EU AI Act) require continuous learning.
+3. **Competition**:
+    - Peers that have careers more entrenched in cyber security will have a leg up in experience and knowledge
 ### Professional Development Plan
 - **Technical Proficiency** continue to uphold this standard
 - **Industry Knowledge** Stay abreast of industry news. Proactively work with customers (security professionals) and crossfunctional coworkers (cyber analysts) to build literacy in the area. Continue my studies in the field.
