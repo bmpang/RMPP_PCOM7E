@@ -20,6 +20,7 @@ Reflection on the Course
 
 ## Professional Development
 ### Professional Skills Matrix
+
 | Skill                 | 4                                                                                               | 3                                                                           | 2                                                        | 1                                                                     | My score |
 | --------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------- | -------- |
 | Technical Proficiency | Strong development skills and domain knowledge. Ability to handle projects at all stage of SDLC | Strong coding skills but not necessarily capable of leading a project       | Able to make meaningful contributions to code base       | Needs help to write new code                                          | 4        |
@@ -59,7 +60,9 @@ Reflection on the Course
     - Shifting compliances (e.g. EU AI Act) require continuous learning.
 3. **Competition**:
     - Peers that have careers more entrenched in cyber security will have a leg up in experience and knowledge
+
 ### Professional Development Plan
+
 - **Technical Proficiency** continue to uphold this standard
 - **Industry Knowledge** Stay abreast of industry news. Proactively work with customers (security professionals) and crossfunctional coworkers (cyber analysts) to build literacy in the area. Continue my studies in the field.
 - **Compliance and Ethics** continue to uphold this standard
