@@ -17,6 +17,11 @@ Reflection on the Course
 [Critique on a Questionnaire](EOMP/Other%20Writings/Questionnaire%20Critique.pdf)
 
 ## Stats Worksheets
+[Hypothesis Testing Worksheet](EOMP/Stats%20Worksheets/Hypothesis%20Testing%20Worksheet.pdf)
+
+[Summary Measures Worksheet](EOMP/Stats%20Worksheets/Summary%20Measures%20Worksheet.pdf)
+
+[Charts Worksheet](EOMP/Stats%20Worksheets/Charts%20Worksheet.pdf)
 
 ## Professional Development
 ### Professional Skills Matrix
