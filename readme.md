@@ -18,7 +18,8 @@ Reflection on the Course
 
 ## Stats Worksheets
 
-## Professional Skills Matrix and Action Plan (PDP)
+## Professional Development
+### Professional Skills Matrix
 | Skill                 | 4                                                                                               | 3                                                                           | 2                                                        | 1                                                                     | My score |
 | --------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------- | -------- |
 | Technical Proficiency | Strong development skills and domain knowledge. Ability to handle projects at all stage of SDLC | Strong coding skills but not necessarily capable of leading a project       | Able to make meaningful contributions to code base       | Needs help to write new code                                          | 4        |
@@ -26,6 +27,16 @@ Reflection on the Course
 | Compliance and Ethics | Raises the ethical bar.<br>Helps org proactively meet compliance standards                      | Passively meets ethical standard. Does not push compliance breaking changes | Occasionally missteps on relatively unimportant issues   | Not an ethical employee or not meeting regulations with contributions | 4        |
 | Communication         | Documents and disseminates contributions. Ready to answer questions and asks questions early    | Transparent but not always fully proactive                                  | Requires checkins to maintain transparency               | Not a helpful communicator                                            | 3        |
 | Collaboration         | Works well cross functionally                                                                   | Works well within the team                                                  | Works well in direct collaboration                       | Does not work well with others                                        | 3        |
+
+### SWOT Analysis
+
+### Professional Development Plan
+- **Technical Proficiency** continue to uphold this standard
+- **Industry Knowledge** Stay abreast of industry news. Proactively work with customers (security professionals) and crossfunctional coworkers (cyber analysts) to build literacy in the area. Continue my studies in the field.
+- **Compliance and Ethics** continue to uphold this standard
+- **Communication** Work on procatively sharing what I'm working on to a wider audience. 
+- **Collaboration** Seek projects that require me to work with sister teams more often. Practice managing regular checkins and pair programming sessions.
+
 
 ## Other
 [Induction vs Deduction Quiz](EOMP/Screenshots/ReasoningQuiz.png)
