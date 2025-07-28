@@ -7,7 +7,7 @@ for Brandon Pang
 
 [Reflection on Harmful Questionnaires a la Cambridge Analytica](EOMP/Reflections/Cambridge%20Analytica%20Reflection.pdf)
 
-Reflection on the Course
+[Resubmission for Course Reflection](EOMP/Reflections/RMPP%20Reflection%20Resubmission.pdf)
 
 ## Other Writings
 [Collaborative Forum on Ethics Summary](EOMP/Other%20Writings/Collaborative%20Forum%20Summary%201.pdf)
